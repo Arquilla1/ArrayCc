@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a78cb692-5404-4362-962a-02ca5ac52d30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Debug/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Debug/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Debug/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Debug/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Debug/Debug.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Debug/src/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arraycc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arraycc/ArrayCc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayCc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/createarrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createarrays/src/CreateArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/createvariables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../createvariables/src/CreateVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/debugthis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/out/production/debugthis/DebugThis$Fix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/out/production/debugthis/DebugThis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../debugthis/src/DebugThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/elizachats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elizachats/src/ElizaChats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/elsestatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elsestatement/src/ElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/fixerror.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fixerror/src/FixError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/guessgame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guessgame/src/Guessgame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/hurricanespeed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hurricanespeed/src/HurricaneSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/positivenegative.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../positivenegative/src/PositiveNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/smallestlargest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smallestlargest/src/SmallestLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/squaresnumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squaresnumber/src/SquaresNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/src/StartedApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../startedapplication/startedapplication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstJava" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstJava" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patientinfo" beforeDir="false" afterPath="$PROJECT_DIR$/../patientinfo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1af5zY5BtETC6t7P5e4T1LpismS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ArrayCc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayCc" />
+      <module name="arraycc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayCc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a78cb692-5404-4362-962a-02ca5ac52d30" name="Default Changelist" comment="" />
+      <created>1587114070514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587114070514</updated>
+      <workItem from="1587114077382" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
